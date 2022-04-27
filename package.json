@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-nitro",
+  "version": "0.0.9",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cssmiles/cra-template-nitro"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

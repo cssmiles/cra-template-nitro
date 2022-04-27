@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "vscode-icons-team.vscode-icons",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "orta.vscode-jest",
+    "christian-kohler.npm-intellisense",
+    "firsttris.vscode-jest-runner",
+    "nucllear.vscode-extension-auto-import"
+  ]
+}
